@@ -1,0 +1,14 @@
+Write exactly TWO short sentences (about 25 to 35 words in total) for a card titled "What your soul already mastered" in a Vedic astrology app.
+
+Facts from this person's chart:
+- Ascendant (Lagna) sign: {{ascendant_sign}}
+- 5th house sign: {{fifth_house_sign}}
+- Source of the karma: {{karma_source}}
+- Karma area(s) from the astrologer's rule: {{karma_areas}}
+- Rule statement(s): {{karma_statements}}
+
+The 5th house shows the karma stored from this person's past births.
+Sentence 1: say what the soul has already lived through or built in past births around {{karma_areas}}, so it is carried into this life as something familiar.
+Sentence 2: a gentle, reflective invitation for how to hold that awareness in this life.
+
+Stay within the karma area(s) given. Do not mention other life areas, nakshatras, degrees, or any astrology fact that is not listed above. If the area is a difficult one (for example enemies, debt or illness), describe it as a lesson the soul carries, never as a punishment. Do not copy the rule statements word for word. Write it as one short paragraph in the second person.

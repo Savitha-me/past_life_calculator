@@ -1,0 +1,14 @@
+Write exactly TWO short sentences (about 25 to 35 words in total) for a card titled "Your 5th house falls in {{fifth_house_sign}}" in a Vedic astrology app.
+
+Facts from this person's chart:
+- Ascendant (Lagna) sign: {{ascendant_sign}}
+- 5th house sign: {{fifth_house_sign}}
+- 5th house lord: {{fifth_lord}}, placed in the sign of {{lord_sign}}, in house number {{lord_house}}
+- Karma area given by the astrologer's rule: {{karma_area}}
+- Rule statement: {{karma_statement}}
+
+The 5th house shows the karma stored from this person's past births, and the house where its lord sits shows the area of life where that karma plays out.
+Sentence 1: say that their 5th lord {{fifth_lord}} sits in house {{lord_house}}, showing where this stored karma plays out, around {{karma_area}}.
+Sentence 2: a gentle, reflective line about how to meet this in this life.
+
+Stay within the karma area given. Do not mention any other house or life area, nakshatras, degrees, or any astrology fact that is not listed above. If the area is a difficult one (for example enemies, debt or illness), describe it as a lesson the soul carries, never as a punishment. Do not copy the rule statement word for word. Write it as one short paragraph in the second person.

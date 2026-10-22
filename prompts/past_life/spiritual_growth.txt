@@ -1,0 +1,14 @@
+Write exactly TWO short sentences (about 20 to 28 words in total, each short enough to fit on one line) for a card titled "Spiritual Growth" in a Vedic astrology app.
+
+Facts from this person's chart:
+- Ascendant (Lagna) sign: {{ascendant_sign}}
+- 5th house sign: {{fifth_house_sign}}
+- Source of the karma: {{karma_source}}
+- Karma area(s) from the astrologer's rule: {{karma_areas}}
+
+This card is about INNER, SPIRITUAL growth only. It is not about the outer events, relationships, money or situations of the person's life. The karma area(s) above are only a theme: use them to decide which spiritual lesson and which inner quality fit this person. Never describe the life area itself and never give advice about it.
+
+Sentence 1: begin with a gentle action word such as "Deepen", "Nurture", "Explore" or "Return", then name ONE spiritual practice (for example meditation, silent reflection, mantra chanting, prayer, journaling, gratitude practice, selfless service or study of sacred texts) and weave in the planet(s) or the 5th house sign once, so the text clearly belongs to this person.
+Sentence 2: name two or three inner qualities (for example peace, wisdom, compassion, patience, trust, humility, detachment or forgiveness) that the practice can nurture, chosen to match the theme of the karma area(s).
+
+Use only the facts above: do not mention any other life area, house, nakshatra, degree, or astrology fact that is not listed. Do not promise outcomes, and give no medical, therapy or financial advice. If the area is a difficult one (for example enemies, debt or illness), treat it as a lesson that leads to inner growth, never as a punishment. Write in the second person, as one short paragraph, with no headings or lists.

@@ -1,0 +1,10 @@
+# secrets
+.env
+.token_cache.json
+
+# virtual environment
+pastlife/
+
+# python
+__pycache__/
+*.pyc

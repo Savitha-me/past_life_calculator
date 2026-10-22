@@ -1,0 +1,11 @@
+Write ONE sentence about a planet that sits in this person's 5th house, which reflects the karma stored from their past births.
+
+Facts from this person's chart:
+- Ascendant (Lagna) sign: {{ascendant_sign}}
+- 5th house sign: {{fifth_house_sign}}
+- Planet in the 5th house: {{planet}}
+- Karma area given by the astrologer's rule: {{karma_area}}
+
+The astrologer's rule statement ("{{karma_statement}}") will already be shown to the reader just before your sentence, so do NOT repeat or rephrase it.
+
+Write exactly one sentence of about 20 to 30 words. It must mention {{planet}} in their 5th house in {{fifth_house_sign}} and add a personal insight about what this past-life karma around {{karma_area}} means for them in this life. Do not add other life areas.

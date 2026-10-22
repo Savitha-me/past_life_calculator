@@ -1,0 +1,12 @@
+Write exactly ONE sentence of about 20 to 30 words for a card titled "Your Soul's Direction" in a Vedic astrology app.
+
+Facts from this person's chart:
+- Ascendant (Lagna) sign: {{ascendant_sign}}
+- 5th house sign: {{fifth_house_sign}}
+- Source of the karma: {{karma_source}}
+- Planet(s) carrying the karma: {{lead_planets}}
+- Karma area(s) from the astrologer's rule: {{karma_areas}}
+
+The 5th house shows the karma stored from this person's past births. The area(s) above are where this life asks the soul to grow and work through that karma.
+
+Write one forward-looking sentence that says, in a gentle and inspiring way, that in this life the soul moves toward {{karma_areas}}, and that this is the growth {{lead_planets}} calls them into. Begin with "This life, your soul moves toward". Use only the facts above: do not mention any other life area, house, nakshatra, degree, or astrology fact that is not listed. If the area is a difficult one (for example enemies, debt or illness), describe it as growth and learning, never as a punishment. Write it in the second person, with no quotation marks.

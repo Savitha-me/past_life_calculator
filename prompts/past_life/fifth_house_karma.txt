@@ -1,0 +1,11 @@
+Write exactly ONE meaningful sentence of about 25 to 35 words that explains this person's 5th house karma in a Vedic astrology app.
+
+Facts from this person's chart:
+- Ascendant (Lagna) sign: {{ascendant_sign}}
+- 5th house sign: {{fifth_house_sign}}
+- Source of the karma: {{karma_source}}
+- Karma area(s) from the astrologer's rule: {{karma_areas}}
+
+The 5th house shows the karma stored from this person's past births. The karma area(s) above are the people or parts of life where that stored karma is carried into this life.
+
+Do NOT simply say who or what the karma is "related to". Instead, explain what carrying this past-life karma suggests about the nature of these bonds or lessons, and what this life asks of them in return. Mention the planet(s) or the 5th house sign once, so the sentence clearly belongs to this person. Name the karma area(s) in natural words, not as a list headed by "karma related to". Do not start with "The native". Use only the facts above: do not mention any other life area, house, nakshatra, degree, or astrology fact that is not listed. Describe things as tendencies and lessons, never as certain events or punishments. If an area is a difficult one (for example enemies, debt or illness), frame it as a lesson that leads to growth. Write in the second person, as a single sentence.

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyswisseph
+pytz
+geopy
+timezonefinder
+httpx
+pydantic-settings
+tzdata
+pymongo
